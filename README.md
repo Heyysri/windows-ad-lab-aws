@@ -232,7 +232,7 @@ GSS failure. Minor code may provide more information
 ![Security Group](screenshots/02-security-group.png)
 
 #### EC2 Instances Running
-![EC2 Instances](screenshots/03-winserver-ec2-running.png)
+![EC2 Instances](screenshots/03-winserver&Ubuntu-ec2-running.png)
 
 ---
 
