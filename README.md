@@ -277,19 +277,7 @@ GSS failure. Minor code may provide more information
 ```
 windows-ad-lab-aws/
 ├── scripts/
-│   └── create-ad-users.ps1
 ├── screenshots/
-│   ├── 01-vpc-setup.png
-│   ├── 02-security-group.png
-│   ├── 03-winserver&Ubuntu-ec2-running.png
-│   ├── 04-rdp-connected.png
-│   ├── 05-ad-installed.png
-│   ├── 06-domain-controller-promoted.png
-│   ├── 07-dns-running.png
-│   ├── 08-dhcp-scope-created.png
-│   ├── 09-users-created-powershell.png
-│   ├── 10-ad-users-computers.png
-│   ├── 11-ubuntu-domain-joined.png
 ├── README.md
 └── .gitignore
 ```
