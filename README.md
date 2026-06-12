@@ -234,8 +234,6 @@ GSS failure. Minor code may provide more information
 #### EC2 Instances Running
 ![EC2 Instances](screenshots/03-winserver-ec2-running.png)
 
-![EC2 Instances](screenshots/04-ubuntu-ec2-running.png)
-
 ---
 
 ### 🖥️ Windows Server
