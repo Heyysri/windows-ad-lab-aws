@@ -234,41 +234,40 @@ GSS failure. Minor code may provide more information
 #### EC2 Instances Running
 ![EC2 Instances](screenshots/03-winserver-ec2-running.png)
 
+![EC2 Instances](screenshots/04-ubuntu-ec2-running.png)
+
 ---
 
 ### 🖥️ Windows Server
 
 #### RDP Connected
-![RDP Connected](screenshots/04-rdp-connected.png)
+![RDP Connected](screenshots/05-rdp-connected.png)
 
 #### AD DS Installed
-![AD Installed](screenshots/05-ad-installed.png)
+![AD Installed](screenshots/06-ad-installed.png)
 
 #### Domain Controller Promoted
-![DC Promoted](screenshots/06-domain-controller-promoted.png)
+![DC Promoted](screenshots/07-domain-controller-promoted.png)
 
 #### DNS Running
-![DNS Running](screenshots/07-dns-running.png)
+![DNS Running](screenshots/08-dns-running.png)
 
 #### DHCP Scope Active
-![DHCP Scope](screenshots/08-dhcp-scope-created.png)
+![DHCP Scope](screenshots/09-dhcp-scope-created.png)
 
 ---
 
 ### 👥 Active Directory
 
 #### PowerShell User Creation
-![PowerShell Script](screenshots/09-users-created-powershell.png)
+![PowerShell Script](screenshots/10-users-created-powershell.png)
 
 #### Users in AD Users & Computers
-![AD Users](screenshots/10-ad-users-computers.png)
+![AD Users](screenshots/11-ad-users-computers.png)
 
 ---
 
 ### 🐧 Ubuntu Client
-
-#### Ubuntu EC2 Running
-![Ubuntu EC2](screenshots/11-ubuntu-ec2-running.png)
 
 #### Domain Discovery Successful
 ![Domain Discovered](screenshots/12-ubuntu-domain-joined.png)
